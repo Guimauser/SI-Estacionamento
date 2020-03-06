@@ -1,0 +1,14 @@
+Pesquisa de referências - Estacionamento
+
+-Microterminal gerenciador
+-Equipamentos para automação de estacionamentos (codigo de barras/QR ou ticket)
+
+-----Sistemas----- 
+-NEPOS: Desenvolvimento e customização dos aplicativos e da interface e também eletronica e mecanica; Especificação para o desenvolvimento de customizações e melhorias no sistema. Rotina de testes e homologação de novos sistemas e produtos; Controle e implementação de processos para a melhoria constante dos produtos, sistemas e serviços.
+-ABCPark: Prático e completo; Controle de rotativos/horistas; Cadastro; Convenios e condiçoes especiais de preço;diferentes niveis de permissao;relatorios gerenciais;backup e segurança
+
+
+
+Fontes:
+https://www.galaxpay.com.br/post/10-melhores-sistemas-para-estacionamentos/134/
+https://www.almitec.com.br/equipamentos-automacao-estacionamentos
