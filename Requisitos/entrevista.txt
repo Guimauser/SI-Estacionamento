@@ -1,0 +1,5 @@
+-Quantos clientes por dia?
+-Quantas vagas?
+-Média de permanencia?
+-Quantos sócios?
+-Quantos funcionarios?
