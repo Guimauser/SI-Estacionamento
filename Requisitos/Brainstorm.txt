@@ -1,0 +1,9 @@
+Brainstorm - SI-Estacionamento
+
+-Sistema para entrada e saída de veículos (Placa, modelo, vaga, data e horário)
+-Sistema de segurança por cameras para evitar danos e roubo
+-Calcular o valor a ser pago de acordo com a permanencia do veículo
+-Cadastrar plano fixo
+-Controlar de limite de vagas
+-Adicionar forma de pagamento por cartão
+-Checar quais vagas estão ocupadas através da numeração
